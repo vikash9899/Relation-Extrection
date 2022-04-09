@@ -1,0 +1,3 @@
+जिनमें/PRP राजा/NN बीर/NNP सिंह/NNP जूदेव/NNP का/PSP नाम/NN प्रमुख/JJ है/VM ।/SYM
+यह/PRP अफगानी/JJ कला/NN का/PSP बेजोड़/JJ उदाहरण/NN है/VM ।/SYM
+इस/DEM समय/NN यहाँ/PRP पर्यटकों/NN का/PSP मेला/NN लगा/VM रहता/VAUX है/VAUX ।/SYM
